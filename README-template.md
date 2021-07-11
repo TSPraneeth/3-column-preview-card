@@ -11,7 +11,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - 
 
 
 ### The challenge
@@ -28,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/TSPraneeth/3-column-preview-card)
-- Live Site URL: (https://tspraneeth.github.io/3-column-preview-card)
+- Solution URL: [https://github.com/TSPraneeth/3-column-preview-card]
+- Live Site URL: [https://tspraneeth.github.io/3-column-preview-card]
 
 ## My process
 
